@@ -2,6 +2,9 @@
 
 AI-powered stock market analysis dashboard built with Streamlit, Groq AI, Yahoo Finance and Plotly.
 
+## Live Demo
+https://ai-stock-market-assistant-ja3dw7lfsqzzjqbr2iax2f.streamlit.app/
+
 ## Features
 
 - Real-time stock prices
